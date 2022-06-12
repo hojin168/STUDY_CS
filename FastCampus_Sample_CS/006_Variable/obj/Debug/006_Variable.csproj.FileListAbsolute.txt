@@ -1,0 +1,8 @@
+D:\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe.config
+D:\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe
+D:\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.pdb
+D:\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.AssemblyReference.cache
+D:\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.SuggestedBindingRedirects.cache
+D:\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+D:\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+D:\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb
