@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.pdb

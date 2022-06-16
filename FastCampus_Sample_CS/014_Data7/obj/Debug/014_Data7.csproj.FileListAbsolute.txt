@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\obj\Debug\014_Data7.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\obj\Debug\014_Data7.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\obj\Debug\014_Data7.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\bin\Debug\014_Data7.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\bin\Debug\014_Data7.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\bin\Debug\014_Data7.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\obj\Debug\014_Data7.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\014_Data7\obj\Debug\014_Data7.pdb

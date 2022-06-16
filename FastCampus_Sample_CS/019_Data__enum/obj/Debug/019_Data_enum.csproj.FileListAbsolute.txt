@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\bin\Debug\019_Data__enum.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\bin\Debug\019_Data__enum.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\bin\Debug\019_Data__enum.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\obj\Debug\019_Data_enum.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\obj\Debug\019_Data_enum.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\obj\Debug\019_Data__enum.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\019_Data__enum\obj\Debug\019_Data__enum.pdb

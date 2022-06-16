@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\obj\Debug\046_Operator__switch.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\obj\Debug\046_Operator__switch.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\obj\Debug\046_Operator__switch.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\bin\Debug\046_Operator__switch.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\bin\Debug\046_Operator__switch.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\bin\Debug\046_Operator__switch.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\obj\Debug\046_Operator__switch.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\046_Operator__switch\obj\Debug\046_Operator__switch.pdb

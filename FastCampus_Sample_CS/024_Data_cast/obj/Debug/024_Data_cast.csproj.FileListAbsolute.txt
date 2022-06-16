@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

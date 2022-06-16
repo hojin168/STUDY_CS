@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\bin\Debug\063_FunsSwap.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\bin\Debug\063_FunsSwap.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\bin\Debug\063_FunsSwap.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\obj\Debug\063_FunsSwap.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\obj\Debug\063_FunsSwap.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\obj\Debug\063_FunsSwap.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\obj\Debug\063_FunsSwap.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\063_FunsSwap\obj\Debug\063_FunsSwap.pdb

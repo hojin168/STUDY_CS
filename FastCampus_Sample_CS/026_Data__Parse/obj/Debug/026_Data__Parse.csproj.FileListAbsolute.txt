@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\bin\Debug\026_Data__Parse.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\bin\Debug\026_Data__Parse.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\bin\Debug\026_Data__Parse.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\obj\Debug\026_Data__Parse.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\obj\Debug\026_Data__Parse.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\obj\Debug\026_Data__Parse.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\obj\Debug\026_Data__Parse.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\026_Data__Parse\obj\Debug\026_Data__Parse.pdb

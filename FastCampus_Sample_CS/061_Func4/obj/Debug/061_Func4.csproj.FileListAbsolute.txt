@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\bin\Debug\061_Func4.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\bin\Debug\061_Func4.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\bin\Debug\061_Func4.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\obj\Debug\061_Func4.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\obj\Debug\061_Func4.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\obj\Debug\061_Func4.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\obj\Debug\061_Func4.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\061_Func4\obj\Debug\061_Func4.pdb

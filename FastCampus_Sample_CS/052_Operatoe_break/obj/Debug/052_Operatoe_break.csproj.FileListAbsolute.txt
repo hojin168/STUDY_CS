@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\bin\Debug\052_Operatoe_break.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\bin\Debug\052_Operatoe_break.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\bin\Debug\052_Operatoe_break.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\obj\Debug\052_Operatoe_break.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\obj\Debug\052_Operatoe_break.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\obj\Debug\052_Operatoe_break.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\obj\Debug\052_Operatoe_break.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\052_Operatoe_break\obj\Debug\052_Operatoe_break.pdb

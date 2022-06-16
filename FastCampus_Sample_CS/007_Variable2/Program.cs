@@ -10,14 +10,16 @@ namespace _007_Variable2
     {
         static void Main(string[] args)
         {
-            int num;
+          
             int x = 100;
             int y = 200;
-            int a = 1000, int b = 2000;
+            int a = 1000, b= 2000;
 
+            
             Console.WriteLine("x: " + x);
             Console.WriteLine("y: " + y);
-            Console.WriteLine("a: " + a); 
+            Console.WriteLine("a: " + a);
+            Console.WriteLine("b: " + b);
         }
     }
 }

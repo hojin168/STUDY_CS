@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.pdb
