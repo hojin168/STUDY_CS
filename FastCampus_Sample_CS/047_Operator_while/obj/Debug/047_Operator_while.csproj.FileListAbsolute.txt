@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.pdb

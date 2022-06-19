@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.pdb
