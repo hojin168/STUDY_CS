@@ -1,0 +1,8 @@
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.exe.config
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\bin\Debug\080_static.pdb
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.csproj.AssemblyReference.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.csproj.SuggestedBindingRedirects.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.csproj.CoreCompileInputs.cache
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.exe
+D:\REPO\STUDY_CS\FastCampus_Sample_CS\080_static\obj\Debug\080_static.pdb
